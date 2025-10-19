@@ -8,3 +8,6 @@ To run the app locally
 
 3. Run app locally
 	`streamlit run Home.py`
+
+To watch demo go to
+	https://conttoneo-streamlit-ping-home-wytoie.streamlit.app/Check_Status
