@@ -1,13 +1,13 @@
-To run the app locally
+Lokale Ausführung der App
 
-1. Download the code
-   ... or clone it (https://github.com/conttoneo/streamlit-ping.git)
-  
-2. Install Streamlit
-	`pip install streamlit`
+1. Code herunterladen
+   ... oder ihn clonen (https://github.com/conttoneo/streamlit-ping.git)
 
-3. Run app locally
-	`streamlit run Home.py`
+2. Streamlit-Installieren
+    `pip install streamlit`
 
-To watch demo go to
-	https://conttoneo-streamlit-ping-home-wytoie.streamlit.app/Check_Status
+3. App lokal ausführen
+    `streamlit run Home.py`
+
+Um die Demo anzusehen
+    https://conttoneo-streamlit-ping-home-wytoie.streamlit.app/Check_Status
